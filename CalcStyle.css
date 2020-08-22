@@ -1,0 +1,102 @@
+body{
+    margin-left: 35%;
+    margin-top: 5%;
+    width: 315px;
+    padding: 10px;
+    padding-top: 20px;
+    height: 450px;
+    box-shadow: 1px 1px 5px 2px #888888;
+}
+.title{
+    margin-bottom: 15px;
+    margin-left: 11px;
+    text-align:center;
+    width: 280px;
+    padding: 5px;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    color:green;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+.cal{
+     margin-left: 7px;
+}
+input[type="button"]{
+    background-color: #85EDF4; 
+    color: #B171F8;
+    font-size: 25px;
+    font-family: times new roman;
+    font-weight: bold;
+    border: none;
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+    box-shadow: 1px 1px 5px 2px #888888;
+}
+input[type="text"] {
+    background-color:white; 
+    border: solid black 2px; 
+    width:180px;
+    height: 60px;
+}
+#result{
+    margin-left: 5px;
+    width: 206px;
+    border-radius: 0px 0px 10px 0px;
+    box-shadow: 1px 1px 5px 1px #888888;
+    border: none; 
+}
+#clr{
+    border-radius: 0px 0px 0px 10px;
+}
+#div{
+    border-radius: 10px 0px 0px 10px;
+}
+#three
+{
+    border-radius: 0px 10px 10px 10px;
+}
+#one{
+    border-radius: 0px 0px 10px 0px;
+}
+#two{
+    border-radius: 0px 0px 10px 10px;
+}
+#four{
+    border-radius: 0px 10px 10px 0px;
+}
+#five{
+    border-radius: 10px 10px 10px 10px;
+}
+#six{
+    border-radius: 10px 10px 10px 10px;
+}
+#seven{
+    border-radius: 0px 10px 10px 0px;
+}
+#eight{
+    border-radius: 10px 10px 10px 10px;
+}
+#nine{
+    border-radius: 10px 10px 10px 10px;
+}
+#zero{
+    border-radius: 10px 10px 0px 0px;
+}
+#dot{
+    border-radius: 0px 10px 0px 0px;
+}
+#equal{
+    border-radius: 10px 10px 0px 0px;
+}
+#mul{
+    border-radius: 10px 0px 0px 0px;
+}
+#plus{
+    border-radius: 10px 0px 0px 10px;
+}
+#minus{
+    border-radius: 10px 0px 0px 10px;
+}
